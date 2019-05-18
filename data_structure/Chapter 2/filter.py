@@ -23,3 +23,15 @@ print(set(filteredVowels))
 print('The filtered vowels are:')
 for vowel in filter(filterVowels, alphabets):
     print(vowel)
+
+
+'''
+<class 'filter'>
+['a', 'e', 'i', 'o']
+set()
+The filtered vowels are:
+a
+e
+i
+o
+'''
