@@ -6,6 +6,8 @@ sizes = ['s', 'm', 'l']
 # 先以颜色排列，在以尺码排列
 tshirts = [(color, size) for color in colors for size in sizes]   
 print(tshirts)
+print(type(tshirts))
+# Output: 
 
 # 传统的for实现
 for color in colors:
