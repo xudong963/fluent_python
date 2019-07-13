@@ -6,4 +6,6 @@
 2. 实现一个**Vector**
 ### Chapter 2 序列构成的数组
 
+### Chapter 3 字典和集合
+
 
