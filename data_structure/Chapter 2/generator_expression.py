@@ -1,4 +1,4 @@
-# generatot expression
+# generator expression
 
 alphabets = "ABCDEF"
 

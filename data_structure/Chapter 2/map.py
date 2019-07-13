@@ -3,8 +3,9 @@
 # map(function, iterable)
 
 numbers = (1,2,3,4)
-
+print(set(numbers))
 result = map(lambda x : x+x, numbers)
+
 print(type(result))
 print(set(result))
 print(list(result))
